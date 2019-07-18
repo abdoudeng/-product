@@ -1,0 +1,45 @@
+<template>
+  <div class="feature-area pt-80 pb-50">
+		    <div class="container">
+		        <div class="row">
+		            <div class="col-lg-4 col-md-6">
+		                <!--Single Feature Area Start-->
+		                <div class="single-feature-area mb-30">
+		                    <div class="feature-content">
+		                        <h3>free shipping worldwide</h3>
+		                    </div>
+		                </div>
+		                <!--Single Feature Area End-->
+		            </div>
+		            <div class="col-lg-4 col-md-6">
+		                <!--Single Feature Area Start-->
+		                <div class="single-feature-area mb-30">
+		                    <div class="feature-content">
+		                        <h3>free shipping worldwide</h3>
+		                    </div>
+		                </div>
+		                <!--Single Feature Area End-->
+		            </div>
+		            <div class="col-lg-4 col-md-6">
+		                <!--Single Feature Area Start-->
+		                <div class="single-feature-area mb-30">
+		                    <div class="feature-content">
+		                        <h3>free shipping worldwide</h3>
+		                    </div>
+		                </div>
+		                <!--Single Feature Area End-->
+		            </div>
+		        </div>
+		    </div>
+		</div>
+</template>
+
+<script>
+export default {
+  name: 'feature'
+}
+</script>
+
+<style>
+
+</style>
